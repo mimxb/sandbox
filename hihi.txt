@@ -1,1 +1,2 @@
 THis is meaningless.
+But edit it with Emacs and it gains a bit of meaning.
